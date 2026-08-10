@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/AbdulMajid-ET/Leetcode/tree/master/0001-two-sum) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/AbdulMajid-ET/Leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
+| [1450-number-of-students-doing-homework-at-a-given-time](https://github.com/AbdulMajid-ET/Leetcode/tree/master/1450-number-of-students-doing-homework-at-a-given-time) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/AbdulMajid-ET/Leetcode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1512-number-of-good-pairs](https://github.com/AbdulMajid-ET/Leetcode/tree/master/1512-number-of-good-pairs) |
 | [1528-shuffle-string](https://github.com/AbdulMajid-ET/Leetcode/tree/master/1528-shuffle-string) |
