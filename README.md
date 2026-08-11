@@ -44,4 +44,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0771-jewels-and-stones](https://github.com/AbdulMajid-ET/Leetcode/tree/master/0771-jewels-and-stones) |
 | [1528-shuffle-string](https://github.com/AbdulMajid-ET/Leetcode/tree/master/1528-shuffle-string) |
+| [1678-goal-parser-interpretation](https://github.com/AbdulMajid-ET/Leetcode/tree/master/1678-goal-parser-interpretation) |
 <!---LeetCode Topics End-->
