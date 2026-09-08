@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/AbdulMajid-ET/Leetcode/tree/master/0001-two-sum) |
 | [0088-merge-sorted-array](https://github.com/AbdulMajid-ET/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/AbdulMajid-ET/Leetcode/tree/master/0136-single-number) |
+| [0283-move-zeroes](https://github.com/AbdulMajid-ET/Leetcode/tree/master/0283-move-zeroes) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/AbdulMajid-ET/Leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1450-number-of-students-doing-homework-at-a-given-time](https://github.com/AbdulMajid-ET/Leetcode/tree/master/1450-number-of-students-doing-homework-at-a-given-time) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/AbdulMajid-ET/Leetcode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0088-merge-sorted-array](https://github.com/AbdulMajid-ET/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/AbdulMajid-ET/Leetcode/tree/master/0125-valid-palindrome) |
+| [0283-move-zeroes](https://github.com/AbdulMajid-ET/Leetcode/tree/master/0283-move-zeroes) |
 ## Sorting
 |  |
 | ------- |
