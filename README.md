@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/AbdulMajid-ET/Leetcode/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/AbdulMajid-ET/Leetcode/tree/master/0169-majority-element) |
+| [0242-valid-anagram](https://github.com/AbdulMajid-ET/Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/AbdulMajid-ET/Leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/AbdulMajid-ET/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0387-first-unique-character-in-a-string](https://github.com/AbdulMajid-ET/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/AbdulMajid-ET/Leetcode/tree/master/0125-valid-palindrome) |
+| [0242-valid-anagram](https://github.com/AbdulMajid-ET/Leetcode/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/AbdulMajid-ET/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0771-jewels-and-stones](https://github.com/AbdulMajid-ET/Leetcode/tree/master/0771-jewels-and-stones) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/AbdulMajid-ET/Leetcode/tree/master/1221-split-a-string-in-balanced-strings) |
@@ -78,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0088-merge-sorted-array](https://github.com/AbdulMajid-ET/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/AbdulMajid-ET/Leetcode/tree/master/0169-majority-element) |
+| [0242-valid-anagram](https://github.com/AbdulMajid-ET/Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/AbdulMajid-ET/Leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/AbdulMajid-ET/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 ## Bit Manipulation
