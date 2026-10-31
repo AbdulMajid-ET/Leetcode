@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/AbdulMajid-ET/Leetcode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/AbdulMajid-ET/Leetcode/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/AbdulMajid-ET/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [0709-to-lower-case](https://github.com/AbdulMajid-ET/Leetcode/tree/master/0709-to-lower-case) |
 | [0771-jewels-and-stones](https://github.com/AbdulMajid-ET/Leetcode/tree/master/0771-jewels-and-stones) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/AbdulMajid-ET/Leetcode/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1528-shuffle-string](https://github.com/AbdulMajid-ET/Leetcode/tree/master/1528-shuffle-string) |
