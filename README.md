@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1672-richest-customer-wealth](https://github.com/AbdulMajid-ET/Leetcode/tree/master/1672-richest-customer-wealth) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/AbdulMajid-ET/Leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/AbdulMajid-ET/Leetcode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
+| [2562-find-the-array-concatenation-value](https://github.com/AbdulMajid-ET/Leetcode/tree/master/2562-find-the-array-concatenation-value) |
 ## Hash Table
 |  |
 | ------- |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/AbdulMajid-ET/Leetcode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/AbdulMajid-ET/Leetcode/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/AbdulMajid-ET/Leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [2562-find-the-array-concatenation-value](https://github.com/AbdulMajid-ET/Leetcode/tree/master/2562-find-the-array-concatenation-value) |
 ## Sorting
 |  |
 | ------- |
@@ -167,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0258-add-digits](https://github.com/AbdulMajid-ET/Leetcode/tree/master/0258-add-digits) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/AbdulMajid-ET/Leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [2562-find-the-array-concatenation-value](https://github.com/AbdulMajid-ET/Leetcode/tree/master/2562-find-the-array-concatenation-value) |
 ## Number Theory
 |  |
 | ------- |
