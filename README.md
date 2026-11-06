@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/AbdulMajid-ET/Leetcode/tree/master/0066-plus-one) |
 | [0258-add-digits](https://github.com/AbdulMajid-ET/Leetcode/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/AbdulMajid-ET/Leetcode/tree/master/0268-missing-number) |
+| [0367-valid-perfect-square](https://github.com/AbdulMajid-ET/Leetcode/tree/master/0367-valid-perfect-square) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/AbdulMajid-ET/Leetcode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/AbdulMajid-ET/Leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1512-number-of-good-pairs](https://github.com/AbdulMajid-ET/Leetcode/tree/master/1512-number-of-good-pairs) |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/AbdulMajid-ET/Leetcode/tree/master/0035-search-insert-position) |
 | [0268-missing-number](https://github.com/AbdulMajid-ET/Leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/AbdulMajid-ET/Leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0367-valid-perfect-square](https://github.com/AbdulMajid-ET/Leetcode/tree/master/0367-valid-perfect-square) |
 ## Queue
 |  |
 | ------- |
