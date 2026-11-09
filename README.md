@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/AbdulMajid-ET/Leetcode/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/AbdulMajid-ET/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0485-max-consecutive-ones](https://github.com/AbdulMajid-ET/Leetcode/tree/master/0485-max-consecutive-ones) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/AbdulMajid-ET/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/AbdulMajid-ET/Leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1450-number-of-students-doing-homework-at-a-given-time](https://github.com/AbdulMajid-ET/Leetcode/tree/master/1450-number-of-students-doing-homework-at-a-given-time) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/AbdulMajid-ET/Leetcode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/AbdulMajid-ET/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0387-first-unique-character-in-a-string](https://github.com/AbdulMajid-ET/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0771-jewels-and-stones](https://github.com/AbdulMajid-ET/Leetcode/tree/master/0771-jewels-and-stones) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/AbdulMajid-ET/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1512-number-of-good-pairs](https://github.com/AbdulMajid-ET/Leetcode/tree/master/1512-number-of-good-pairs) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/AbdulMajid-ET/Leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
 ## Stack
@@ -130,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/AbdulMajid-ET/Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/AbdulMajid-ET/Leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/AbdulMajid-ET/Leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/AbdulMajid-ET/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -207,4 +210,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0392-is-subsequence](https://github.com/AbdulMajid-ET/Leetcode/tree/master/0392-is-subsequence) |
+## Counting Sort
+|  |
+| ------- |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/AbdulMajid-ET/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 <!---LeetCode Topics End-->
