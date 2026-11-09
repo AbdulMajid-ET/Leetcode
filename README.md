@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/AbdulMajid-ET/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0771-jewels-and-stones](https://github.com/AbdulMajid-ET/Leetcode/tree/master/0771-jewels-and-stones) |
 | [1512-number-of-good-pairs](https://github.com/AbdulMajid-ET/Leetcode/tree/master/1512-number-of-good-pairs) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/AbdulMajid-ET/Leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
 ## Stack
 |  |
 | ------- |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/AbdulMajid-ET/Leetcode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1678-goal-parser-interpretation](https://github.com/AbdulMajid-ET/Leetcode/tree/master/1678-goal-parser-interpretation) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/AbdulMajid-ET/Leetcode/tree/master/1704-determine-if-string-halves-are-alike) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/AbdulMajid-ET/Leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/AbdulMajid-ET/Leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/AbdulMajid-ET/Leetcode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 ## Greedy
