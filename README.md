@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1572-matrix-diagonal-sum](https://github.com/AbdulMajid-ET/Leetcode/tree/master/1572-matrix-diagonal-sum) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/AbdulMajid-ET/Leetcode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1672-richest-customer-wealth](https://github.com/AbdulMajid-ET/Leetcode/tree/master/1672-richest-customer-wealth) |
+| [1920-build-array-from-permutation](https://github.com/AbdulMajid-ET/Leetcode/tree/master/1920-build-array-from-permutation) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/AbdulMajid-ET/Leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/AbdulMajid-ET/Leetcode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2562-find-the-array-concatenation-value](https://github.com/AbdulMajid-ET/Leetcode/tree/master/2562-find-the-array-concatenation-value) |
@@ -208,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0258-add-digits](https://github.com/AbdulMajid-ET/Leetcode/tree/master/0258-add-digits) |
 | [0657-robot-return-to-origin](https://github.com/AbdulMajid-ET/Leetcode/tree/master/0657-robot-return-to-origin) |
+| [1920-build-array-from-permutation](https://github.com/AbdulMajid-ET/Leetcode/tree/master/1920-build-array-from-permutation) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/AbdulMajid-ET/Leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2562-find-the-array-concatenation-value](https://github.com/AbdulMajid-ET/Leetcode/tree/master/2562-find-the-array-concatenation-value) |
 ## Number Theory
